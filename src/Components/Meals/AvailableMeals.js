@@ -4,14 +4,15 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
+    name: "Pizza",
+    description: "Loaded With Pepperoni and Cheese",
     price: 22.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
+    name: "Pasta",
+    description:
+      "Creamy sauce with fresh broccoli, tomatoes, garlic and mozzarella",
     price: 16.5,
   },
   {
